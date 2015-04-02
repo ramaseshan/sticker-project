@@ -33,3 +33,8 @@ A crazy stickers idea based on GNU/Linux and related Free software stuff
 **Libreoffice** : https://commons.wikimedia.org/wiki/File:LibreOffice_Logo_Flat.svg
 
 **Copyleft** : https://upload.wikimedia.org/wikipedia/commons/8/8b/Copyleft.svg
+
+<br />
+**The Output for now**
+
+<img src="Final/Free_Software.png" width="500" height="500" alt="Free Software Laptop Sticker"/>
