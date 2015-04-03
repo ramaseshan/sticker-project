@@ -33,7 +33,7 @@ A crazy stickers idea based on GNU/Linux and related Free software stuff
 **Libreoffice** : https://commons.wikimedia.org/wiki/File:LibreOffice_Logo_Flat.svg
 
 **Copyleft** : https://upload.wikimedia.org/wikipedia/commons/8/8b/Copyleft.svg
-
+**DRM-Free** : https://static.fsf.org/dbd/label/DRM-free%20label%20dropshadow%20125.en.png
 <br />
 **The Output for now**
 
